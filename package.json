@@ -1,3 +1,15 @@
-{
-"author": "Prashanth P"
+ {
+  "name": "fcc-learn-npm-package-json",
+  "author": "foobar",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/Prashanth-P-Prabhu/myapilearn.git"
+  }
 }
